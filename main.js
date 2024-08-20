@@ -1,1 +1,15 @@
-const test=document.querySelector("caixa-principal");
+const elemento = document.querySelector(".teste");
+
+const elemento = document.querySelector(".teste2");
+
+titulo.textContent = "olá mundo";
+
+let contador = 1 ;
+let contador = [1,2,5,8,9];
+
+const perguntas= [
+{
+enunciado"insira o enunciado da pergunta"
+
+}
+]
